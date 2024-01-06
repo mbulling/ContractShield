@@ -1,5 +1,7 @@
 # ContractShield
 
+**_NOTE:_** This is a forked copy of https://github.com/andrewschoi/TartanHacks2023
+
 A legal aid for document inference using BERT language model. Won "Most Disruptive : Product" and 2nd overall at TartanHacks 2023 (hosted by CMU), Pittsburg's largest annual hackathon with over 100 participating team. 
 
 # Tech Stack
